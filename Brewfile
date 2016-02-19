@@ -19,4 +19,5 @@ cask 'macdown'
 
 cask 'java'
 cask 'eclipse-jee'
+cask 'intellij-idea'
 brew 'maven'
