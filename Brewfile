@@ -1,5 +1,6 @@
 cask_args appdir: '/Applications'
 tap 'caskroom/cask'
+tap 'caskroom/versions'
 
 brew 'git'
 brew 'docker-machine'
@@ -17,6 +18,7 @@ cask 'virtualbox'
 cask 'iterm2'
 cask 'evernote'
 cask 'macdown'
+cask 'sublime-text3'
 
 cask 'java'
 cask 'eclipse-jee'
