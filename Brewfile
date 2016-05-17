@@ -7,6 +7,7 @@ brew 'wget'
 
 brew 'awscli'
 
+cask '1password'
 cask 'google-chrome'
 cask 'spotify'
 cask 'dropbox'
@@ -21,3 +22,4 @@ cask 'java'
 cask 'eclipse-jee'
 cask 'intellij-idea'
 brew 'maven'
+
