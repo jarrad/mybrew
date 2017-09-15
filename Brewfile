@@ -2,8 +2,12 @@ cask_args appdir: '/Applications'
 tap 'caskroom/cask'
 tap 'caskroom/versions'
 
+brew 'coreutils'
+
 brew 'git'
+brew 'docker-compose'
 brew 'docker-machine'
+brew 'docker'
 brew 'wget'
 
 brew 'awscli'
